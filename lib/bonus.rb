@@ -25,8 +25,8 @@ def bonus
   def speak_the_speech(epic_tragedy)
     spoil_the_ending = "dead"
     
-    epic_tragedy[:montague][:hero][:status] = "Alive"
-    epic_tragedy[:capulet][:heroine][:status] = "Dead"
+    epic_tragedy[:montague][:hero][:status] => "Alive"
+    epic_tragedy[:capulet][:heroine][:status] => "Dead"
   end
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
