@@ -2,23 +2,29 @@ def third_challenge
   epic_tragedy = {
    :montague => {
       :patriarch => {
-        name: "Lord Montague"
+        name: "Lord Montague",
+        age: "53"
         },
       :matriarch => {
-        #your key/value pairs here
+        name: "Lady Montague",
+        age: "54"
         },
       :hero => {
-        #your key/value pairs here
+        name: "Romeo",
+        age: "15",
+        status: "alive"
         },
       :hero_friends => []
    }, 
    :capulet => {
       :patriarch => {
-        #your key/value pairs here
+        name: "Lord Capulet",
+        age: "50"
         },
       :matriarch => {
-        #your key/value pairs here
-        },
+        name: "Lady Capulet",
+        age: "51" #NOTE: THIS IS WRONG. SHE IS ~24-26 years old. "I was a mother much upon these years that you are now a maid"
+      },
       :heroine => {
         #your key/value pairs here
         },
