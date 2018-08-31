@@ -26,8 +26,8 @@ def third_challenge
         age: "51" #NOTE: THIS IS WRONG. SHE IS ~27 years old. "I became a mother much upon these years that you are now a maid" R&J 1.3.74–75
       },
       :heroine => {
-        name: "Juliet"
-        age: "15" #WRONG! She is 13! "On Lammas-eve, at night, will she be fourteen". The ball takes place a fortnight - two weeks - before her birthday, so mid-July"
+        name: "Juliet",
+        age: "15", #WRONG! She is 13! "On Lammas-eve, at night, will she be fourteen". The ball takes place a fortnight - two weeks - before her birthday, so mid-July"
         status: "alive"
         },
       :heroine_friends => []
