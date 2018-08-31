@@ -24,7 +24,8 @@ def bonus
 
   def speak_the_speech(epic_tragedy)
     all_men_must = "dead"
-
+    the_ending = Hash.new(epic_tragedy)
+    raise the_ending.inspect
     epic_tragedy[:montague][:hero][:status] = all_men_must
     epic_tragedy[:capulet][:heroine][:status] = all_men_must
   end
