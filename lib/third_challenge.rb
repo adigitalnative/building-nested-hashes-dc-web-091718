@@ -23,10 +23,12 @@ def third_challenge
         },
       :matriarch => {
         name: "Lady Capulet",
-        age: "51" #NOTE: THIS IS WRONG. SHE IS ~27 years old. "I becane a mother much upon these years that you are now a maid"
+        age: "51" #NOTE: THIS IS WRONG. SHE IS ~27 years old. "I becane a mother much upon these years that you are now a maid" R&J Act I Sc 3
       },
       :heroine => {
-        #your key/value pairs here
+        name: "Juliet"
+        age: "15"
+        status: "alive"
         },
       :heroine_friends => []
    }
