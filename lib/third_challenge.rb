@@ -27,7 +27,7 @@ def third_challenge
       },
       :heroine => {
         name: "Juliet"
-        age: "15" #WRONG! She is 13! "On Lammas-eve, at night, will she be fourteen. The ball takes place a fortnight - two weeks - before her birthday, on July"
+        age: "15" #WRONG! She is 13! "On Lammas-eve, at night, will she be fourteen. The ball takes place a fortnight - two weeks - before her birthday, so mid-July"
         status: "alive"
         },
       :heroine_friends => []
