@@ -23,7 +23,7 @@ def third_challenge
         },
       :matriarch => {
         name: "Lady Capulet",
-        age: "51" #NOTE: THIS IS WRONG. SHE IS ~24-26 years old. "I was a mother much upon these years that you are now a maid"
+        age: "51" #NOTE: THIS IS WRONG. SHE IS ~27 years old. "I becane a mother much upon these years that you are now a maid"
       },
       :heroine => {
         #your key/value pairs here
