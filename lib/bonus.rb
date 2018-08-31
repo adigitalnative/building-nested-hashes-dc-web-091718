@@ -23,7 +23,7 @@ def bonus
   #code your solution here:
 
   def speak_the_speech(epic_tragedy)
-    spoil_the_ending = "dead"
+    all_men_must = "dead"
     
     epic_tragedy[:montague][:hero][:status] = spoil_the_ending
     epic_tragedy[:capulet][:heroine][:status] = spoil_the_ending
